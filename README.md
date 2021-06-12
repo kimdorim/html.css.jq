@@ -34,3 +34,56 @@
   </div>
   </dody>
   ```
+  
+  
+  ## HTML Attrbute
+  
+  > HTML 속성
+  > HTML 요소의 부가 정보
+  > 속성이름 = "속성값"
+
+```
+<a href="http://www.naver.com>naver</a>
+
+
+##제목태크
+```
+
+
+>h1 이 가장 큰 제목
+
+##
+
+```
+<!DOCTYPE html> - 1
+<html> - 2
+  <head> - 3
+    <meta charset="utf-8"> -4
+    <title>My test page</title> -5
+  </head>
+  <body>- 6
+    <p>This is my page</p>
+  </body>
+</html>
+```
+
+```
+1. 웹문서의 버전: HTML5
+2. html 문서의 가장 바깥쪽 요소
+3. 웹 문서를 설며하는 정보가 담기는 영역 요소
+4. 웹 문서의 정보 표현
+5. 웹 문서의 제목을 표시 요소
+6. 웹 문서의 콘텐츠 요소들이 담기는 영역 요소
+
+
+### 단락 태그
+
+>p( parageaph) : 단락을 표시
+>단락과 단락사이를 구분 하는 수평선
+```
+<hr> -Horizontal Rule
+```
+>단락을 구분 하지 않고 줄 바꿈
+````
+<br> - Break
+```
