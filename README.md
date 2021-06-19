@@ -180,3 +180,28 @@ https://www.tablesgenerator.com/html_tables
 <img src="tmage.jpg" alt="대체텍스트">
 ```
 
+### vidoe Element
+> 비디오및 오디오 콘텐츠는 용량이 크기 때문에 서버에 저장을 해서 콘텐츠를 제고하면 많은 트래픽이 발생할수 있음.
+>
+> 트래픽 과부하를 해결하기 위해서 유튜브 서비스를 사용하기도 함.
+> attribute
+>
+> controls: 컨트롤 버튼 표시
+>
+> autoplay: 자동 재생( * mted와 같이 사용해야 함)
+>
+> muted: 음소거
+>
+> loop: 반복 재생
+
+### Youtube
+
+> 비디오 콘텐츠 제공시 서버의 트래픽 과부하를 해결 할 수 있는 방법중의 하나
+> 매개변수
+> controls=1, 0
+
+> autoplay=1 ,0 (muto와 같이 사용)
+
+> mute=1 ,0
+
+> loop=1, 0 (play list 와 같이 사용)
