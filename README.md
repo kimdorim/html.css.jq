@@ -199,9 +199,14 @@ https://www.tablesgenerator.com/html_tables
 > 비디오 콘텐츠 제공시 서버의 트래픽 과부하를 해결 할 수 있는 방법중의 하나
 > 매개변수
 > controls=1, 0
-
+>
 > autoplay=1 ,0 (muto와 같이 사용)
-
+>
 > mute=1 ,0
-
+>
 > loop=1, 0 (play list 와 같이 사용)
+
+> 텍스트 HTML 문서에 직접 입력되는 콘텐츠
+> 이미지와 동영상, 오디오 콘텐츠는
+> 이미지, 동영상, 오디오는 직접 입력하는 것이 아니고 외부 파일을 삽입 =>입베드(embed(포함한다) 콘텐츠
+
